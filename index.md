@@ -11,30 +11,11 @@ AI has revolutionized the underlying structure of financial interaction and is a
 The emergence of Defi technology has provided entrepreneurs with alternative financial assets. This has created a massive disruption in the financial industry, opening new opportunities for business owners to explore for corp finance. At ColorAI we understand the advantages that can be implemented  to provide an edge to companies in the marketplace.
 
 
-# Header 1
-## Header 2
-### Header 3
+## AI & Machine Learning
 
-- Bulleted
-- List
+Now with the new markets transforming in the world of finance. Automation will continue to dominate the world. Algorithms will run our economies and financial markets. We provide you the best solutions catered to your needs.
 
-1. Numbered
-2. List
+<center>Ready to optimize your business?
+Let’s chat!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colorai/colorai.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
+info@colorai.work<center>
