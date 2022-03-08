@@ -1,9 +1,7 @@
-## <center>colorAI<center>
-## <center>Innovative Fintech strategies for the 21st Century<center>
+## <center>tech is the foundation of our business. Our high-tech expertise allows us to come up with unique strategies to help companies succeed. Our expert team includes tech engineers and financial expert.<center>
 
-You can use the [editor on GitHub](https://github.com/colorai/colorai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+tech is the foundation of our business. Our high-tech expertise allows us to come up with unique strategies to help companies succeed. Our expert team includes tech engineers and financial expert.
 
 ### Markdown
 
