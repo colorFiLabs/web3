@@ -6,11 +6,10 @@ ColorAI mitigates risks and our financial services help determine the viability 
 
 AI has revolutionized the underlying structure of financial interaction and is a major game-changer in financial risk management.
 
+## Defi 
 
+The emergence of Defi technology has provided entrepreneurs with alternative financial assets. This has created a massive disruption in the financial industry, opening new opportunities for business owners to explore for corp finance. At ColorAI we understand the advantages that can be implemented  to provide an edge to companies in the marketplace.
 
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
