@@ -1,5 +1,5 @@
 ## <center>colorAI<center>
-## Innovative Fintech strategies for the 21st Century
+## <center>Innovative Fintech strategies for the 21st Century<center>
 
 You can use the [editor on GitHub](https://github.com/colorai/colorai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
