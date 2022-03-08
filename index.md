@@ -1,4 +1,4 @@
-smart contracts and digital assets is the foundation of our business. Our high-tech expertise allows us to come up with unique strategies to help companies succeed. Our expert team includes tech engineers and financial experts. 
+Smart contracts and digital assets is the foundation of our business. Our high-tech expertise allows us to come up with unique strategies to help companies succeed. Our expert team includes tech engineers and financial experts. 
 
 ## Our Financial Strategies
 
