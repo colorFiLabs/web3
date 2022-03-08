@@ -1,10 +1,10 @@
-AI is the foundation of our business. Our high-tech expertise allows us to come up with unique strategies to help companies succeed. Our expert team includes tech engineers and financial experts. 
+smart contracts and digital assets is the foundation of our business. Our high-tech expertise allows us to come up with unique strategies to help companies succeed. Our expert team includes tech engineers and financial experts. 
 
 ## Our Financial Strategies
 
 ColorAI mitigates risks and our financial services help determine the viability or convenience of financing alternatives and analyze financial opportunities.
 
-AI has revolutionized the underlying structure of financial interaction and is a major game-changer in financial risk management.
+AI has revolutionized the underlying structure of financial interaction and is a major game-changer in financial risk management and operations.
 
 ## Defi
 
