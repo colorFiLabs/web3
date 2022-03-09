@@ -19,7 +19,7 @@ Now with the new markets transforming in the world of finance. Automation will c
 
 We are building a strong portfilio of digital assets of emerging tech. We believe in a world that will be govern by DOAS. We help our clients understand what that means and how to adopt in this new age.
 
-## Products For Institutional investors
+## Products For Institutional Investors
 
 We have a set of digital asset products powered by AI algorthms that can empower the portfolio of the investors. 
 
