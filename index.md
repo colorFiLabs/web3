@@ -9,6 +9,7 @@ AI has revolutionized the underlying structure of financial interaction and is a
 ## Defi
 
 The emergence of Defi technology has provided entrepreneurs with alternative financial funding options. This has created a massive disruption in the financial industry, opening new opportunities for business owners to explore for corp finance and viable investment for investors. 
+
 At ColorAI we understand the advantages that can be implemented  to provide an edge to companies and investors in the marketplace. We currently working with high growth companies with resilient founders that are operating in very distressed business envoriment but they continue to excel and profit.
 
 
