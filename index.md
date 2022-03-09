@@ -15,11 +15,11 @@ At ColorAI we understand the advantages that can be implemented  to provide an e
 
 ## AI In Finance
 
-Now with the new markets transforming in the world of finance. Automation will continue to dominate the world. Algorithms will run our economies and financial markets. We provide you the best solutions catered to your needs.
+Now with the new markets transforming in finance. Automation will continue to dominate the markets. Algorithms will run our economies and financial markets. We provide you the best solutions catered to your needs.
 
 ## Digital Assets
 
-We are building a strong portfilio of digital assets of emerging tech. We believe in a world that will be govern by DOAS. We help our clients understand what that means and how to adopt in this new age.
+We are building a strong portfilio of digital assets of emerging tech. We believe in a world that will be govern by NFTs, DeFi, DAOs, Metaverse & Infrastructure Layer Solutions. We help our clients understand what that means and how to adopt in this new age.
 
 ## Products For Institutional Investors
 
