@@ -20,6 +20,10 @@ Now with the new markets transforming in the world of finance. Automation will c
 We are building a strong portfilio of digital assets of emerging tech. We believe in a world that will be govern by DOAS. We help our clients understand what that means and how to adopt in this new age.
 
 
+## Our Operations
+
+colorAI have operations in USA, Mexico, Dominican Republic, Guatemala, & Colombia. We are mainly working with high growth companies with founders that are operating in very distressed business envoriment but they continue to excel and profit.
+
 
 Ready to optimize your business?
 Let’s chat!
