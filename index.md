@@ -1,4 +1,4 @@
-Smart contracts is the foundation of our business. Our high-tech expertise allows us to come up with unique strategies to help companies succeed. Our expert team includes tech engineers and financial experts. 
+Smart contracts are the foundation of our business. Our high-tech expertise allows us to come up with unique strategies to help companies succeed. Our expert team includes tech engineers and financial experts. 
 
 ## Our Financial Strategies
 
