@@ -28,6 +28,6 @@ colorAI have operations in USA, Mexico, Dominican Republic, Guatemala, & Colombi
 Ready to optimize your business?
 Let’s chat!
 
-info@colorai.work
+info@colorai.co
   
 
