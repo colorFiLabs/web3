@@ -2,7 +2,7 @@ Smart contracts are the foundation of our business. Our high-tech expertise allo
 
 ## Our Financial Strategies 
 
-colorAI mitigates risks and our financial services help determine the viability or convenience of financing alternatives and analyze financial opportunities.
+colorFi mitigates risks and our financial services help determine the viability or convenience of financing alternatives and analyze financial opportunities.
 
 AI has revolutionized the underlying structure of financial interaction and is a major game-changer in financial risk management and operations.
 
@@ -10,7 +10,7 @@ AI has revolutionized the underlying structure of financial interaction and is a
 
 The emergence of Defi technology has provided entrepreneurs with alternative financial funding options. This has created a massive disruption in the financial industry, opening new opportunities for business owners to explore for corp finance and viable investments for investors. 
 
-At ColorAI we understand the advantages that can be implemented  to provide an edge to companies and investors in the marketplace.
+At colorFi we understand the advantages that can be implemented  to provide an edge to companies and investors in the marketplace.
 
 
 ## AI In Finance
@@ -35,12 +35,12 @@ We currently working with high growth companies with resilient founders that are
 
 ## Our Operations
 
-colorAI have operations in USA, Mexico, Dominican Republic, Guatemala, & Colombia. 
+colorfi have operations in USA, Mexico, Dominican Republic, Guatemala, & Colombia. 
 
 
 Ready to optimize your business? We can schedule a product demo.
 Let’s chat!
 
-info@colorai.co
+info@colorfi.co
   
 
