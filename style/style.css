@@ -36,7 +36,6 @@ a:hover {
     color: #ECECEC;
     font-size: 80px;
     font-weight: 700;
-    word-break: break-all;
     float: left;
 }
 
@@ -107,4 +106,13 @@ h2 {
     background-size: 30% 100%;
     background-position: left;
     background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 500px) {
+    .main_heading {
+        color: #ECECEC;
+        font-size: 50px;
+        font-weight: 700;
+        float: left;
+    }
 }
