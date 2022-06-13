@@ -71,7 +71,6 @@ h2 {
     -webkit-text-stroke-color: #FFF;
     font-size: 80px;
     font-weight: 800;
-    overflow-x: hidden;
 }
 
 .side_images {
@@ -114,5 +113,15 @@ h2 {
         font-size: 50px;
         font-weight: 700;
         float: left;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .header_color_fi {
+        color: #0a0f21;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: #FFF;
+        font-size: 40px;
+        font-weight: 800;
     }
 }
